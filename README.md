@@ -21,7 +21,7 @@
 [<img align ="left" alt="keras" width="62 ppx" src = "https://keras.io/img/logo.png">](https://keras.io/)
 [<img align ="left" alt="pandas" width="62ppx" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" />](https://pandas.pydata.org/)
 [<img align ="left" alt="numpy" width="66ppx" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" />](https://numpy.org/)
-
+<br>
 ### Connect with me:
 [<img align ="left" alt="mherkhachatryan" width="22ppx" src = "https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" />](https://www.facebook.com/khachatryan.666m)
 [<img align ="left" alt="mherkhachatryan" width="22ppx" src = "https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />](https://www.linkedin.com/in/mherkhachatryan/)
