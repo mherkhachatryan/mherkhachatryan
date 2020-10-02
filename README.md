@@ -27,7 +27,7 @@
 [<img align ="left" alt="mherkhachatryan" width="22ppx" src = "https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" />](https://www.facebook.com/khachatryan.666m)
 [<img align ="left" alt="mherkhachatryan" width="22ppx" src = "https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />](https://www.linkedin.com/in/mherkhachatryan/)
 [<img align ="left" alt="mherkhachatryan" width="22ppx" src = "https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-512.png" />](https://twitter.com/khachatryan_666)
-[<img align ="left" alt="mherkhachatryan" width="22ppx" src = "https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" />](t.me/mherkhachatryan)
+[<img align ="left" alt="mherkhachatryan" width="22ppx" src = "https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" />](https://t.me/mherkhachatryan)
 [<img align ="left" alt="mherkhachatryan" width="22ppx" src = "https://cdn0.iconfinder.com/data/icons/most-usable-logos/120/Whats_App-512.png" />](https://wa.link/oyyic1)
 [<img align ="left" alt="mherkhachatryan" width="22ppx" src = "https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png" />](https://www.instagram.com/khachatryan_666m/)
 [<img align ="left" alt="mherkhachatryan" width="22ppx" src = "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/147_Gmail_logo_logos-512.png" />](mher@easydmarc.com)
