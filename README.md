@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning History, Maths, Neuroscience.
 - 💬 Ask me about everything.
 - ✨ I'm interested in <br>
-   </t>⛰hiking<br>
-   📖reading<br>
-   🚵biking <br>
-   💻coding 
+   </t>⛰ hiking<br>
+   📖 reading<br>
+   🚵 biking <br>
+   💻 coding 
     
 - ⚡ Fun fact: I love kargin haghordums and building nice stuff with computers.
 
@@ -16,10 +16,10 @@
 [<img align ="left" alt="pycharm" width="26ppx" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" />](https://www.jetbrains.com/pycharm/)
 [<img align ="left" alt="python" width="26ppx" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://www.python.org/)
 [<img align ="left" alt="ubuntu" width="26ppx" src = "https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />](https://ubuntu.com/)
-[<img align ="left" alt="pytorch" width="32ppx" src = "https://pytorch.org/assets/images/pytorch-logo.png" />](https://pytorch.org/)
+[<img align ="left" alt="pytorch" width="24ppx" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" />](https://pytorch.org/)
 [<img align ="left" alt="sklearn" width="44ppx" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />](https://scikit-learn.org/stable/)
-[<img align ="left" alt="keras" width="62 ppx" src = "https://keras.io/img/logo.png">](https://keras.io/)
-[<img align ="left" alt="pandas" width="62ppx" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" />](https://pandas.pydata.org/)
+[<img align ="left" alt="keras" width="26ppx" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png">](https://keras.io/)
+[<img align ="left" alt="pandas" width="64ppx" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" />](https://pandas.pydata.org/)
 [<img align ="left" alt="numpy" width="66ppx" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" />](https://numpy.org/)
 [<img align ="left" alt="streamlit" width="44ppx" src = "https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e181828ba9f9e92b6ebc6e7_RGB_Logomark_Color_Light_Bg.png" />](https://www.streamlit.io/)
 <br>
