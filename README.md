@@ -1,6 +1,6 @@
 ### Hi there, I'm [Mher](https://www.linkedin.com/in/mherkhachatryan/) 👋
 #### I'm Machine Learning Engineer and Researcher.
-- 🔭 I’m currently working on Anomaly Detection for email merge and Active Galactic Nuclei classification.
+- 🔭 I’m currently working on Anomaly Detection for DMARC reports and Active Galactic Nuclei classification.
 - 🌱 I’m currently learning History, Maths, Neuroscience.
 - 💬 Ask me about everything.
 - ✨ I'm interested in <br>
