@@ -2,7 +2,8 @@
 #### I'm Machine Learning Engineer and Researcher.
 - 🔭 I’m currently working on Anomaly Detection for DMARC reports and Active Galactic Nuclei classification.
 - 🌱 I’m currently learning History, Maths, Neuroscience.
-- 💬 Ask me about everything.
+- 💬 Ask me about everything philosophical.
+- 🇦🇲 Working on making Armenia great again. 
 - ✨ I'm interested in <br>
    </t>⛰ hiking<br>
    📖 reading<br>
