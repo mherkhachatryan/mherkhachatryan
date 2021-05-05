@@ -14,7 +14,7 @@
 
 
 ### Languages and Tools:
-[<img align ="left" alt="pycharm" width="26ppx" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" />](https://www.jetbrains.com/pycharm/)
+[<img align ="left" alt="pycharm" width="26ppx" src = "https://assets.stickpng.com/images/58481537cef1014c0b5e4968.png" />](https://www.jetbrains.com/pycharm/)
 [<img align ="left" alt="python" width="26ppx" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://www.python.org/)
 [<img align ="left" alt="ubuntu" width="26ppx" src = "https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />](https://ubuntu.com/)
 [<img align ="left" alt="pytorch" width="24ppx" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" />](https://pytorch.org/)
