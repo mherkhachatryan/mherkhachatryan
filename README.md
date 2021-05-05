@@ -1,8 +1,8 @@
 ### Hi there, I'm [Mher](https://www.linkedin.com/in/mherkhachatryan/) 👋
 #### I'm Machine Learning Engineer and Researcher.
-- 🔭 I’m currently working on Anomaly Detection for DMARC reports and Active Galactic Nuclei classification.
-- 🌱 I’m currently learning History, Maths, Neuroscience.
-- 💬 Ask me about everything philosophical.
+- 🔭 I’m currently working on Video Segmentation Problem and Active Galactic Nuclei classification.
+- 🌱 I’m currently learning  Maths, Marketing.
+- 💬 Ask me about everything about space.
 - 🇦🇲 Working on making Armenia great again. 
 - ✨ I'm interested in <br>
    </t>⛰ hiking<br>
